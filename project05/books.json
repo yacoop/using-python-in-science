@@ -1,0 +1,702 @@
+[
+    {
+        "Rank": 1.0,
+        "Title": "The Hunger Games (The Hunger Games, #1)",
+        "Author": "Suzanne Collins",
+        "Rating": 4.34,
+        "Number of Ratings": 9218922
+    },
+    {
+        "Rank": 2.0,
+        "Title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+        "Author": "J.K. Rowling",
+        "Rating": 4.5,
+        "Number of Ratings": 3581054
+    },
+    {
+        "Rank": 3.0,
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "Rating": 4.29,
+        "Number of Ratings": 4476167
+    },
+    {
+        "Rank": 4.0,
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "Rating": 4.26,
+        "Number of Ratings": 6501328
+    },
+    {
+        "Rank": 5.0,
+        "Title": "The Book Thief",
+        "Author": "Markus Zusak",
+        "Rating": 4.39,
+        "Number of Ratings": 2719685
+    },
+    {
+        "Rank": 6.0,
+        "Title": "Twilight (The Twilight Saga, #1)",
+        "Author": "Stephenie Meyer",
+        "Rating": 3.66,
+        "Number of Ratings": 6940174
+    },
+    {
+        "Rank": 7.0,
+        "Title": "Animal Farm",
+        "Author": "George Orwell",
+        "Rating": 4.0,
+        "Number of Ratings": 4166346
+    },
+    {
+        "Rank": 8.0,
+        "Title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+        "Author": "J.R.R. Tolkien",
+        "Rating": 4.61,
+        "Number of Ratings": 138814
+    },
+    {
+        "Rank": 9.0,
+        "Title": "The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",
+        "Author": "C.S. Lewis",
+        "Rating": 4.28,
+        "Number of Ratings": 680755
+    },
+    {
+        "Rank": 10.0,
+        "Title": "The Fault in Our Stars",
+        "Author": "John Green",
+        "Rating": 4.13,
+        "Number of Ratings": 5434186
+    },
+    {
+        "Rank": 11.0,
+        "Title": "The Picture of Dorian Gray",
+        "Author": "Oscar Wilde",
+        "Rating": 4.13,
+        "Number of Ratings": 1688933
+    },
+    {
+        "Rank": 12.0,
+        "Title": "The Giving Tree",
+        "Author": "Shel Silverstein",
+        "Rating": 4.38,
+        "Number of Ratings": 1181455
+    },
+    {
+        "Rank": 13.0,
+        "Title": "Wuthering Heights",
+        "Author": "Emily Bront\u00eb",
+        "Rating": 3.9,
+        "Number of Ratings": 1906615
+    },
+    {
+        "Rank": 14.0,
+        "Title": "Gone with the Wind",
+        "Author": "Margaret Mitchell",
+        "Rating": 4.31,
+        "Number of Ratings": 1243155
+    },
+    {
+        "Rank": 15.0,
+        "Title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+        "Author": "Rick Riordan",
+        "Rating": 4.31,
+        "Number of Ratings": 3230839
+    },
+    {
+        "Rank": 16.0,
+        "Title": "The Perks of Being a Wallflower",
+        "Author": "Stephen Chbosky",
+        "Rating": 4.23,
+        "Number of Ratings": 1894378
+    },
+    {
+        "Rank": 17.0,
+        "Title": "Jane Eyre",
+        "Author": "Charlotte Bront\u00eb",
+        "Rating": 4.15,
+        "Number of Ratings": 2198931
+    },
+    {
+        "Rank": 18.0,
+        "Title": "The Little Prince",
+        "Author": "Antoine de Saint-Exup\u00e9ry",
+        "Rating": 4.33,
+        "Number of Ratings": 2269336
+    },
+    {
+        "Rank": 19.0,
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Rating": 3.93,
+        "Number of Ratings": 5547229
+    },
+    {
+        "Rank": 20.0,
+        "Title": "The da Vinci Code (Robert Langdon, #2)",
+        "Author": "Dan    Brown",
+        "Rating": 3.92,
+        "Number of Ratings": 2431836
+    },
+    {
+        "Rank": 21.0,
+        "Title": "Crime and Punishment",
+        "Author": "Fyodor Dostoevsky",
+        "Rating": 4.28,
+        "Number of Ratings": 975602
+    },
+    {
+        "Rank": 22.0,
+        "Title": "Alice\u2019s Adventures in Wonderland / Through the Looking-Glass",
+        "Author": "Lewis Carroll",
+        "Rating": 4.06,
+        "Number of Ratings": 585538
+    },
+    {
+        "Rank": 23.0,
+        "Title": "Divergent (Divergent, #1)",
+        "Author": "Veronica Roth",
+        "Rating": 4.14,
+        "Number of Ratings": 4182444
+    },
+    {
+        "Rank": 24.0,
+        "Title": "Memoirs of a Geisha",
+        "Author": "Arthur Golden",
+        "Rating": 4.16,
+        "Number of Ratings": 2054095
+    },
+    {
+        "Rank": 25.0,
+        "Title": "Les Mis\u00e9rables",
+        "Author": "Victor Hugo",
+        "Rating": 4.21,
+        "Number of Ratings": 821832
+    },
+    {
+        "Rank": 26.0,
+        "Title": "The Alchemist",
+        "Author": "Paulo Coelho",
+        "Rating": 3.92,
+        "Number of Ratings": 3293741
+    },
+    {
+        "Rank": 27.0,
+        "Title": "Lord of the Flies",
+        "Author": "William Golding",
+        "Rating": 3.7,
+        "Number of Ratings": 3041598
+    },
+    {
+        "Rank": 28.0,
+        "Title": "Anne of Green Gables (Anne of Green Gables, #1)",
+        "Author": "L.M. Montgomery",
+        "Rating": 4.32,
+        "Number of Ratings": 1042994
+    },
+    {
+        "Rank": 29.0,
+        "Title": "Romeo and Juliet",
+        "Author": "William Shakespeare",
+        "Rating": 3.74,
+        "Number of Ratings": 2707915
+    },
+    {
+        "Rank": 30.0,
+        "Title": "The Hitchhiker\u2019s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+        "Author": "Douglas Adams",
+        "Rating": 4.23,
+        "Number of Ratings": 1924663
+    },
+    {
+        "Rank": 31.0,
+        "Title": "City of Bones (The Mortal Instruments, #1)",
+        "Author": "Cassandra Clare",
+        "Rating": 4.07,
+        "Number of Ratings": 2084287
+    },
+    {
+        "Rank": 32.0,
+        "Title": "The Help",
+        "Author": "Kathryn Stockett",
+        "Rating": 4.46,
+        "Number of Ratings": 2899472
+    },
+    {
+        "Rank": 33.0,
+        "Title": "Dracula",
+        "Author": "Bram Stoker",
+        "Rating": 4.02,
+        "Number of Ratings": 1363781
+    },
+    {
+        "Rank": 34.0,
+        "Title": "Charlotte\u2019s Web",
+        "Author": "E.B. White",
+        "Rating": 4.2,
+        "Number of Ratings": 1940118
+    },
+    {
+        "Rank": 35.0,
+        "Title": "Ender\u2019s Game (Ender's Saga, #1)",
+        "Author": "Orson Scott Card",
+        "Rating": 4.31,
+        "Number of Ratings": 1423663
+    },
+    {
+        "Rank": 36.0,
+        "Title": "Of Mice and Men",
+        "Author": "John Steinbeck",
+        "Rating": 3.89,
+        "Number of Ratings": 2677629
+    },
+    {
+        "Rank": 37.0,
+        "Title": "Fahrenheit 451",
+        "Author": "Ray Bradbury",
+        "Rating": 3.96,
+        "Number of Ratings": 2599272
+    },
+    {
+        "Rank": 38.0,
+        "Title": "Brave New World",
+        "Author": "Aldous Huxley",
+        "Rating": 3.99,
+        "Number of Ratings": 1955847
+    },
+    {
+        "Rank": 39.0,
+        "Title": "The Catcher in the Rye",
+        "Author": "J.D. Salinger",
+        "Rating": 3.8,
+        "Number of Ratings": 3703008
+    },
+    {
+        "Rank": 40.0,
+        "Title": "One Hundred Years of Solitude",
+        "Author": "Gabriel Garc\u00eda M\u00e1rquez",
+        "Rating": 4.12,
+        "Number of Ratings": 1030238
+    },
+    {
+        "Rank": 41.0,
+        "Title": "A Thousand Splendid Suns",
+        "Author": "Khaled Hosseini",
+        "Rating": 4.44,
+        "Number of Ratings": 1623849
+    },
+    {
+        "Rank": 42.0,
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Rating": 4.2,
+        "Number of Ratings": 4987680
+    },
+    {
+        "Rank": 43.0,
+        "Title": "The Princess Bride",
+        "Author": "William Goldman",
+        "Rating": 4.27,
+        "Number of Ratings": 921925
+    },
+    {
+        "Rank": 44.0,
+        "Title": "Little Women (Little Women, #1)",
+        "Author": "Louisa May Alcott",
+        "Rating": 4.16,
+        "Number of Ratings": 2333854
+    },
+    {
+        "Rank": 45.0,
+        "Title": "The Outsiders",
+        "Author": "S.E. Hinton",
+        "Rating": 4.14,
+        "Number of Ratings": 1464571
+    },
+    {
+        "Rank": 46.0,
+        "Title": "The Secret Garden",
+        "Author": "Frances Hodgson Burnett",
+        "Rating": 4.16,
+        "Number of Ratings": 1229786
+    },
+    {
+        "Rank": 47.0,
+        "Title": "The Time Traveler's Wife",
+        "Author": "Audrey Niffenegger",
+        "Rating": 4.0,
+        "Number of Ratings": 1825354
+    },
+    {
+        "Rank": 48.0,
+        "Title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+        "Author": "George R.R. Martin",
+        "Rating": 4.44,
+        "Number of Ratings": 2611724
+    },
+    {
+        "Rank": 49.0,
+        "Title": "Harry Potter and the Sorcerer\u2019s Stone (Harry Potter, #1)",
+        "Author": "J.K. Rowling",
+        "Rating": 4.47,
+        "Number of Ratings": 10717934
+    },
+    {
+        "Rank": 50.0,
+        "Title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+        "Author": "J.K. Rowling",
+        "Rating": 4.62,
+        "Number of Ratings": 3905496
+    },
+    {
+        "Rank": 51.0,
+        "Title": "A Wrinkle in Time (Time Quintet, #1)",
+        "Author": "Madeleine L'Engle",
+        "Rating": 3.98,
+        "Number of Ratings": 1240737
+    },
+    {
+        "Rank": 52.0,
+        "Title": "The Odyssey",
+        "Author": "Homer",
+        "Rating": 3.82,
+        "Number of Ratings": 1128929
+    },
+    {
+        "Rank": 53.0,
+        "Title": "Frankenstein: The 1818 Text",
+        "Author": "Mary Wollstonecraft Shelley",
+        "Rating": 3.88,
+        "Number of Ratings": 1709693
+    },
+    {
+        "Rank": 54.0,
+        "Title": "The Kite Runner",
+        "Author": "Khaled Hosseini",
+        "Rating": 4.35,
+        "Number of Ratings": 3307394
+    },
+    {
+        "Rank": 55.0,
+        "Title": "The Giver (The Giver, #1)",
+        "Author": "Lois Lowry",
+        "Rating": 4.12,
+        "Number of Ratings": 2644734
+    },
+    {
+        "Rank": 56.0,
+        "Title": "The Handmaid\u2019s Tale (The Handmaid's Tale, #1)",
+        "Author": "Margaret Atwood",
+        "Rating": 4.14,
+        "Number of Ratings": 2199952
+    },
+    {
+        "Rank": 57.0,
+        "Title": "Where the Wild Things Are",
+        "Author": "Maurice Sendak",
+        "Rating": 4.25,
+        "Number of Ratings": 1030612
+    },
+    {
+        "Rank": 58.0,
+        "Title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+        "Author": "J.K. Rowling",
+        "Rating": 4.58,
+        "Number of Ratings": 4505834
+    },
+    {
+        "Rank": 59.0,
+        "Title": "The Lovely Bones",
+        "Author": "Alice Sebold",
+        "Rating": 3.86,
+        "Number of Ratings": 2413460
+    },
+    {
+        "Rank": 60.0,
+        "Title": "Green Eggs and Ham",
+        "Author": "Dr. Seuss",
+        "Rating": 4.31,
+        "Number of Ratings": 810896
+    },
+    {
+        "Rank": 61.0,
+        "Title": "The Adventures of Huckleberry Finn",
+        "Author": "Mark Twain",
+        "Rating": 3.83,
+        "Number of Ratings": 1296836
+    },
+    {
+        "Rank": 62.0,
+        "Title": "Dune (Dune, #1)",
+        "Author": "Frank Herbert",
+        "Rating": 4.28,
+        "Number of Ratings": 1505872
+    },
+    {
+        "Rank": 63.0,
+        "Title": "Life of Pi",
+        "Author": "Yann Martel",
+        "Rating": 3.94,
+        "Number of Ratings": 1690215
+    },
+    {
+        "Rank": 64.0,
+        "Title": "A Tale of Two Cities",
+        "Author": "Charles Dickens",
+        "Rating": 3.87,
+        "Number of Ratings": 980413
+    },
+    {
+        "Rank": 65.0,
+        "Title": "Lolita",
+        "Author": "Vladimir Nabokov",
+        "Rating": 3.88,
+        "Number of Ratings": 892413
+    },
+    {
+        "Rank": 66.0,
+        "Title": "Slaughterhouse-Five",
+        "Author": "Kurt Vonnegut Jr.",
+        "Rating": 4.1,
+        "Number of Ratings": 1417809
+    },
+    {
+        "Rank": 67.0,
+        "Title": "Water for Elephants",
+        "Author": "Sara Gruen",
+        "Rating": 4.11,
+        "Number of Ratings": 1660295
+    },
+    {
+        "Rank": 68.0,
+        "Title": "The Bell Jar",
+        "Author": "Sylvia Plath",
+        "Rating": 4.06,
+        "Number of Ratings": 1079053
+    },
+    {
+        "Rank": 69.0,
+        "Title": "Matilda",
+        "Author": "Roald Dahl",
+        "Rating": 4.33,
+        "Number of Ratings": 1025276
+    },
+    {
+        "Rank": 70.0,
+        "Title": "The Stand",
+        "Author": "Stephen        King",
+        "Rating": 4.35,
+        "Number of Ratings": 794986
+    },
+    {
+        "Rank": 71.0,
+        "Title": "Catch-22",
+        "Author": "Joseph Heller",
+        "Rating": 3.99,
+        "Number of Ratings": 856495
+    },
+    {
+        "Rank": 72.0,
+        "Title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+        "Author": "Stieg Larsson",
+        "Rating": 4.17,
+        "Number of Ratings": 3312209
+    },
+    {
+        "Rank": 73.0,
+        "Title": "The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",
+        "Author": "Arthur Conan Doyle",
+        "Rating": 4.3,
+        "Number of Ratings": 313850
+    },
+    {
+        "Rank": 74.0,
+        "Title": "The Pillars of the Earth (Kingsbridge, #1)",
+        "Author": "Ken Follett",
+        "Rating": 4.34,
+        "Number of Ratings": 792470
+    },
+    {
+        "Rank": 75.0,
+        "Title": "Rebecca",
+        "Author": "Daphne du Maurier",
+        "Rating": 4.25,
+        "Number of Ratings": 670872
+    },
+    {
+        "Rank": 76.0,
+        "Title": "Watership Down (Watership Down, #1)",
+        "Author": "Richard  Adams",
+        "Rating": 4.09,
+        "Number of Ratings": 492390
+    },
+    {
+        "Rank": 77.0,
+        "Title": "Great Expectations",
+        "Author": "Charles Dickens",
+        "Rating": 3.8,
+        "Number of Ratings": 838449
+    },
+    {
+        "Rank": 78.0,
+        "Title": "Outlander (Outlander, #1)",
+        "Author": "Diana Gabaldon",
+        "Rating": 4.26,
+        "Number of Ratings": 1108759
+    },
+    {
+        "Rank": 79.0,
+        "Title": "The Color Purple",
+        "Author": "Alice Walker",
+        "Rating": 4.27,
+        "Number of Ratings": 718895
+    },
+    {
+        "Rank": 80.0,
+        "Title": "Anna Karenina",
+        "Author": "Leo Tolstoy",
+        "Rating": 4.1,
+        "Number of Ratings": 883448
+    },
+    {
+        "Rank": 81.0,
+        "Title": "One Flew Over the Cuckoo\u2019s Nest",
+        "Author": "Ken Kesey",
+        "Rating": 4.2,
+        "Number of Ratings": 754612
+    },
+    {
+        "Rank": 82.0,
+        "Title": "My Sister\u2019s Keeper",
+        "Author": "Jodi Picoult",
+        "Rating": 4.1,
+        "Number of Ratings": 1249708
+    },
+    {
+        "Rank": 83.0,
+        "Title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+        "Author": "J.R.R. Tolkien",
+        "Rating": 4.4,
+        "Number of Ratings": 2948227
+    },
+    {
+        "Rank": 84.0,
+        "Title": "The Brothers Karamazov",
+        "Author": "Fyodor Dostoevsky",
+        "Rating": 4.38,
+        "Number of Ratings": 353596
+    },
+    {
+        "Rank": 85.0,
+        "Title": "And Then There Were None",
+        "Author": "Agatha Christie",
+        "Rating": 4.28,
+        "Number of Ratings": 1476937
+    },
+    {
+        "Rank": 86.0,
+        "Title": "A Tree Grows in Brooklyn",
+        "Author": "Betty  Smith",
+        "Rating": 4.3,
+        "Number of Ratings": 485676
+    },
+    {
+        "Rank": 87.0,
+        "Title": "A Clockwork Orange",
+        "Author": "Anthony Burgess",
+        "Rating": 4.0,
+        "Number of Ratings": 739539
+    },
+    {
+        "Rank": 88.0,
+        "Title": "The Road",
+        "Author": "Cormac McCarthy",
+        "Rating": 3.99,
+        "Number of Ratings": 964094
+    },
+    {
+        "Rank": 89.0,
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "Rating": 4.26,
+        "Number of Ratings": 6501328
+    },
+    {
+        "Rank": 90.0,
+        "Title": "It",
+        "Author": "Stephen        King",
+        "Rating": 4.24,
+        "Number of Ratings": 1190383
+    },
+    {
+        "Rank": 91.0,
+        "Title": "The Shining (The Shining, #1)",
+        "Author": "Stephen        King",
+        "Rating": 4.28,
+        "Number of Ratings": 1598075
+    },
+    {
+        "Rank": 92.0,
+        "Title": "The Golden Compass (His Dark Materials, #1)",
+        "Author": "Philip Pullman",
+        "Rating": 4.03,
+        "Number of Ratings": 1571972
+    },
+    {
+        "Rank": 93.0,
+        "Title": "Vampire Academy (Vampire Academy, #1)",
+        "Author": "Richelle Mead",
+        "Rating": 4.11,
+        "Number of Ratings": 664589
+    },
+    {
+        "Rank": 94.0,
+        "Title": "Siddhartha",
+        "Author": "Hermann Hesse",
+        "Rating": 4.07,
+        "Number of Ratings": 818470
+    },
+    {
+        "Rank": 95.0,
+        "Title": "The Complete Stories and Poems",
+        "Author": "Edgar Allan Poe",
+        "Rating": 4.4,
+        "Number of Ratings": 285674
+    },
+    {
+        "Rank": 96.0,
+        "Title": "Angela\u2019s Ashes (Frank McCourt, #1)",
+        "Author": "Frank McCourt",
+        "Rating": 4.15,
+        "Number of Ratings": 643563
+    },
+    {
+        "Rank": 97.0,
+        "Title": "Interview with the Vampire (The Vampire Chronicles, #1)",
+        "Author": "Anne Rice",
+        "Rating": 4.02,
+        "Number of Ratings": 619910
+    },
+    {
+        "Rank": 98.0,
+        "Title": "Don Quixote",
+        "Author": "Miguel de Cervantes Saavedra",
+        "Rating": 3.9,
+        "Number of Ratings": 287377
+    },
+    {
+        "Rank": 99.0,
+        "Title": "The Old Man and the Sea",
+        "Author": "Ernest Hemingway",
+        "Rating": 3.81,
+        "Number of Ratings": 1224633
+    },
+    {
+        "Rank": 100.0,
+        "Title": "The Poisonwood Bible",
+        "Author": "Barbara Kingsolver",
+        "Rating": 4.1,
+        "Number of Ratings": 766330
+    }
+]
